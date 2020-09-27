@@ -1,24 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f101e5e2-52a9-461e-98fc-d8cb1b140b83" name="Default" comment="" />
+    <list default="true" id="f101e5e2-52a9-461e-98fc-d8cb1b140b83" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1i6eZC1ukbEhf5PO2I78hwdXETX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Console" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -41,14 +58,25 @@
       <updated>1596824922944</updated>
       <workItem from="1596824924198" duration="290000" />
       <workItem from="1597136016750" duration="22000" />
-      <workItem from="1601232530085" duration="937000" />
+      <workItem from="1601232530085" duration="9153000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="141" y="0" key="SettingsEditor" timestamp="1601238455337">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601238455337" />
+    <state x="232" y="71" key="Vcs.Push.Dialog.v2" timestamp="1601236125254">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="71" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601236125254" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601238436585">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1601238436585" />
   </component>
 </project>

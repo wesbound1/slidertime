@@ -25,11 +25,11 @@
     text-align:center;
     padding-top: 50px;
 }
-button {
-    width: 200px;
-    height: 50px;
-    position: absolute;
-}
+/*button {*/
+/*    width: 200px;*/
+/*    height: 50px;*/
+/*    position: absolute;*/
+/*}*/
 .left {
     left:50px;
     top: 100px;

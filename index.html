@@ -16,19 +16,33 @@
           <div class="pic" data-c ="5">5</div>      
                
       </div>
-        <button class="left">LEFT</button>
-        <button class="right">RIGHT</button>
-                        
+
     </div>
 
     <script>
-        $('button').click(function () {
-            let first = $('.pic:first');
-            let last = $('.pic:last')
-            $(last).after(first);
-                    
-        })
-                                                                            
+        let h = 1;
+      let move =  setInterval(function () {
+          $('.pic').hover(function () {
+            h = 0;
+          });
+
+          if (h) {
+              let first = $('.pic:first');
+              let last = $('.pic:last')
+              $(last).after(first);
+          }
+          $('.pic').mouseleave(function () {
+              h = 1;
+          });
+
+
+      }, 2000);
+
+
+
+
+
+        // setTimeout(() => {clearInterval(move)},3000);
     </script>
   </body>
 </html>
